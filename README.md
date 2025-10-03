@@ -10,8 +10,10 @@ This application provides a way to record this information and to access these i
 ### UML DIAGRAMS:
 # USE CASE:
 <img width="1224" height="910" alt="Screenshot 2025-10-03 082702" src="https://github.com/user-attachments/assets/20058223-0739-43ef-b86b-55756dd6eafc" />
+
 # CLASS:
 <img width="1264" height="789" alt="Screenshot 2025-10-03 082257" src="https://github.com/user-attachments/assets/8ca446c4-f1bf-4100-99cb-6c061e2f9b00" />
+
 # COMMUNICATION:
 <img width="826" height="661" alt="Screenshot 2025-10-03 082519" src="https://github.com/user-attachments/assets/a57043ec-8c63-4b05-aed7-c1d1f5c029c6" />
 
